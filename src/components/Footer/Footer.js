@@ -19,7 +19,7 @@ function Footer() {
                 <ul class="footer-links">
                   <li><a href="https://github.com/josharsh">About</a></li>
                   <li><a href="https://github.com/josharsh">Contact</a></li>
-                  <li><a href="https://github.com/josharsh/YAWP">Contribute</a></li>
+                  <li><a href="https://github.com/josharsh/YAWP" onClick={()=>{alert("Contributing guidelines will be available soon")}}>Contribute</a></li>
                 </ul>
               </div>
             </div>
