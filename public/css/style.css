@@ -1,0 +1,418 @@
+/* CSS for main content */
+
+.main-container {
+    min-height: 100vh;
+    overflow: hidden;
+    display: block;
+    position: relative;
+ 
+}
+
+.header-a {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.alink {
+    /* background-color: red; */
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.alink {
+    color: black;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.alink ul {
+    float: left;
+}
+
+.nav-container .start {
+    font-weight: 600;
+    color: black;
+}
+
+.navbar-nav>li {
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.start {
+    border-radius: 9px;
+    border-width: 0.1em;
+    font-size: 15px;
+    padding: 10px 20px 10px 20px;
+    margin-left: 30px;
+}
+
+.start:hover {
+    color: white;
+}
+
+.brand {
+    font-weight: bolder;
+}
+
+.content {
+    /* margin-top: 0px; */
+}
+
+.talk {
+    padding-top: 100px;
+}
+
+.talk>h1 {
+    font-size: 60px !important;
+    font-weight: bold;
+    color: black;
+}
+
+.showcase-img {
+    background-image: url('../images/cover.gif');
+    background-color: #F4F5FF;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 660px;
+    border-radius: 20%;
+   
+}
+
+.circle {}
+
+.no-bold {
+    font-weight: 100;
+}
+
+.bold-two {
+    font-weight: 200;
+}
+
+.bold-three {
+    font-weight: 300;
+}
+
+.bold-four {
+    font-weight: 400;
+}
+
+.start-two {
+    background-color: #372F7F;
+    color: wheat;
+    margin-left: 0;
+    font-weight: 600;
+}
+
+.det-ails {
+    margin-top: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.icon-bra-ails {
+    padding-bottom: 30px;
+}
+
+.icon-ails {
+    color: #3F3D56 !important;
+    font-size: 40px;
+}
+
+
+
+
+/* CSS For Footer */
+
+.footer {
+    color: white;
+    text-align: center;
+    background-color: #212529;
+    padding-top: 25px;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+}
+
+.author {
+    text-decoration: none !important;
+}
+.site-footer
+{
+  background-color:#26272b;
+  padding:45px 0 20px;
+  font-size:15px;
+  line-height:24px;
+  color:#c5c5c5;
+}
+.site-footer hr
+{
+  border-top-color:#bbb;
+  opacity:0.5
+}
+.site-footer hr.small
+{
+  margin:20px 0
+}
+.site-footer h6
+{
+  color:#fff;
+  font-size:16px;
+  text-transform:uppercase;
+  margin-top:5px;
+  letter-spacing:2px
+}
+.site-footer a
+{
+  color:#bbbbbb;
+}
+.site-footer a:hover
+{
+  color:#3366cc;
+  text-decoration:none;
+}
+.footer-links
+{
+  padding-left:0;
+  list-style:none
+}
+.footer-links li
+{
+  display:block
+}
+.footer-links a
+{
+  color:#bdbdbd
+}
+.footer-links a:active,.footer-links a:focus,.footer-links a:hover
+{
+  color:#3366cc;
+  text-decoration:none;
+}
+.footer-links.inline li
+{
+  display:inline-block
+}
+.site-footer .social-icons
+{
+  text-align:right
+}
+.site-footer .social-icons a
+{
+  width:40px;
+  height:40px;
+  line-height:40px;
+  margin-left:6px;
+  margin-right:0;
+  border-radius:100%;
+  background-color:#33353d
+}
+.copyright-text
+{
+  margin:0
+}
+@media (max-width:991px)
+{
+  .site-footer [class^=col-]
+  {
+    margin-bottom:30px
+  }
+}
+@media (max-width:767px)
+{
+  .site-footer
+  {
+    padding-bottom:0
+  }
+  .site-footer .copyright-text,.site-footer .social-icons
+  {
+    text-align:center
+  }
+}
+.social-icons
+{
+  padding-left:0;
+  margin-bottom:0;
+  list-style:none
+}
+.social-icons li
+{
+  display:inline-block;
+  margin-bottom:4px
+}
+.social-icons li.title
+{
+  margin-right:15px;
+  text-transform:uppercase;
+  color:#96a2b2;
+  font-weight:700;
+  font-size:13px
+}
+.social-icons a{
+  background-color:#eceeef;
+  color:#818a91;
+  font-size:16px;
+  display:inline-block;
+  line-height:44px;
+  width:44px;
+  height:44px;
+  text-align:center;
+  margin-right:8px;
+  border-radius:100%;
+  -webkit-transition:all .2s linear;
+  -o-transition:all .2s linear;
+  transition:all .2s linear
+}
+.social-icons a:active,.social-icons a:focus,.social-icons a:hover
+{
+  color:#fff;
+  background-color:#29aafe
+}
+.social-icons.size-sm a
+{
+  line-height:34px;
+  height:34px;
+  width:34px;
+  font-size:14px
+}
+.social-icons a.facebook:hover
+{
+  background-color:#3b5998
+}
+.social-icons a.twitter:hover
+{
+  background-color:#00aced
+}
+.social-icons a.linkedin:hover
+{
+  background-color:#007bb6
+}
+.social-icons a.dribbble:hover
+{
+  background-color:#ea4c89
+}
+@media (max-width:767px)
+{
+  .social-icons li.title
+  {
+    display:block;
+    margin-right:0;
+    font-weight:600
+  }
+}
+
+/* CSS For Future Support - Themes */
+
+
+body-mode1 {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #6e9b8c !important;
+}
+body-mode2 {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #F5F1E8 !important;
+}
+body-mode3 {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #f8f9fa !important;
+}
+
+/* CSS for Floating Action Button */
+.adminActions {
+  position: fixed;
+  bottom: 35px; right: 35px;
+}
+
+  .adminButton {
+    height: 60px;
+    width: 60px;
+    background-color: rgba(67, 83, 143, .8);
+    border-radius: 50%;
+    display: block;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+  }
+
+    .adminButton i {
+      font-size: 22px;
+    }
+
+  .adminButtons {
+    position: absolute;
+    width: 100%;
+    bottom: 120%;
+    text-align: center;
+  }
+
+    .adminButtons a {
+      display: block;
+      width: 45px;
+      height: 45px;
+      border-radius: 50%;
+      text-decoration: none;
+      margin: 10px auto 0;
+      line-height: 1.15;
+      color: #fff;
+      opacity: 0;
+      visibility: hidden;
+      position: relative;
+      box-shadow: 0 0 5px 1px rgba(51, 51, 51, .3);
+    }
+
+      .adminButtons a:hover {
+        transform: scale(1.05);
+      }
+
+      .adminButtons a:nth-child(1) {background-color: #ff5722; transition: opacity .2s ease-in-out .3s, transform .15s ease-in-out;}
+      .adminButtons a:nth-child(2) {background-color: #ffffff; transition: opacity .2s ease-in-out .25s, transform .15s ease-in-out; cursor:pointer}
+      .adminButtons a:nth-child(3) {background-color: #271397; transition: opacity .2s ease-in-out .2s, transform .15s ease-in-out;}
+      .adminButtons a:nth-child(4) {background-color: #2b6e8d; transition: opacity .2s ease-in-out .15s, transform .15s ease-in-out;}
+      .adminButtons a:nth-child(5) {background-color: #0f6d4e; transition: opacity .2s ease-in-out .15s, transform .15s ease-in-out; color:white}
+      .adminActions a i {
+        position: absolute;
+        top: 50%; left: 50%;
+        transform: translate(-50%, -50%);
+      }
+
+  .adminToggle {
+    -webkit-appearance: none;
+    position: absolute;
+    border-radius: 50%;
+    top: 0; left: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    z-index: 2;
+    transition: box-shadow .2s ease-in-out;
+    box-shadow: 0 3px 5px 1px rgba(51, 51, 51, .3);
+  }
+
+    .adminToggle:hover {
+      box-shadow: 0 3px 6px 2px rgba(51, 51, 51, .3);
+    }
+
+    .adminToggle:checked ~ .adminButtons a {
+      opacity: 1;
+      visibility: visible;
+    }
