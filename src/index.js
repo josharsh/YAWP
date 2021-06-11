@@ -10,7 +10,7 @@ ReactDOM.render(
   <React.StrictMode>
    <Router>
     <Route exact path="/" component={Home} />
-    <Route exact path="/new" component={App} />
+    <Route exact path="/play" component={App} />
   </Router>
   </React.StrictMode>,
   document.getElementById('root')

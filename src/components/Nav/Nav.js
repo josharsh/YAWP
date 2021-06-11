@@ -25,7 +25,7 @@ function Nav() {
                         <li className="nav-item">
                             <a className="nav-link" href="#">Sponsor Projects like this</a>
                         </li>
-                        <Link className="btn btn-outline-dark start" to="/new">Get Started</Link>
+                        <Link className="btn btn-outline-dark start" to="/play">Get Started</Link>
                     </ul>
 
 
