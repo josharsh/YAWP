@@ -15,7 +15,7 @@ function Content() {
                             Sheldon wants to teach web but zoom does not work well for him.
                     </h6>
                         <br />
-                        <h6><Link className="btn btn-dark start start-two" to="/new">Try now!</Link></h6>
+                        <h6><Link className="btn btn-dark start start-two" to="/play">Try now!</Link></h6>
                     </div>
                     <div className="col-sm-8 showcase-img">
                         {/* <div className="circle"></div> */}
