@@ -14,8 +14,8 @@ function Docs(){
                     <li><a href="#Online_Playgrounds" class="nav-link">What are PlayGrounds</a></li>
                     <li><a href="#Getting Started" class="nav-link">Getting Started</a></li>
                     <li><a href="#Using Play" class="nav-link">Using Play</a></li>
-                    <li><a href="#Learn_React" class="nav-link">Contributing Guidelines</a></li>
-                    <li><a href="#First_Examples" class="nav-link">More on YAWP</a></li>
+                    <li><a href="#Contribution" class="nav-link">Contributing Guidelines</a></li>
+                    <li><a href="#More_on_YAWP" class="nav-link">More on YAWP</a></li>
                     {/* <li><a href="#React_for_Beginners" class="nav-link">React for Beginners</a></li>
                     <li><a href="#React_for_Designers" class="nav-link">React for Designers</a></li>
                     <li><a href="#Javascript_Resources" class="nav-link">JavaScript Resources</a></li>
@@ -79,7 +79,7 @@ function Docs(){
                     </ul>
                     </p>
                 </section>
-                <section class="main-section" id="Learn_React">
+                <section class="main-section" id="Contribution">
                     <header>
                         <h3>Contributing Guidelines</h3>
                     </header>
