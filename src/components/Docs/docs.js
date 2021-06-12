@@ -15,20 +15,9 @@ function Docs(){
                     <li><a href="#Getting Started" class="nav-link">Getting Started</a></li>
                     <li><a href="#Using Play" class="nav-link">Using Play</a></li>
                     <li><a href="#Contribution" class="nav-link">Contributing Guidelines</a></li>
+                    <li><a href="#Next_On_YAWP" class="nav-link">Coming Soon</a></li>
                     <li><a href="#More_on_YAWP" class="nav-link">More on YAWP</a></li>
-                    {/* <li><a href="#React_for_Beginners" class="nav-link">React for Beginners</a></li>
-                    <li><a href="#React_for_Designers" class="nav-link">React for Designers</a></li>
-                    <li><a href="#Javascript_Resources" class="nav-link">JavaScript Resources</a></li>
-                    <li><a href="#Practical_Tutorial" class="nav-link">Practical Tutorial</a></li>
-                    <li><a href="#Step_by_Step_Guide" class="nav-link">Step by Step Guide</a></li>
-                    <li><a href="#Thinking_in_React" class="nav-link">Thinking in React</a></li>
-                    <li><a href="#Recommended_Courses" class="nav-link">Recommended Courses</a></li>
-                    <li><a href="#Advanced_Concepts" class="nav-link">Advanced Concepts</a></li>
-                    <li><a href="#API_Reference" class="nav-link">API Reference</a></li>
-                    <li><a href="#FAQ_and_Reference" class="nav-link">FAQ and Reference</a></li>
-                    <li><a href="#Stay_Informed" class="nav-link">Stay Informed</a></li>
-                    <li><a href="#Versioned_Documentation" class="nav-link">Versioned Documentation</a></li>
-                    <li><a href="#Something_Missing" class="nav-link">Something Missing</a></li> */}
+                    
                 </ul>
             </nav>
             <main id="main-doc" class="content-docs">
@@ -94,6 +83,25 @@ function Docs(){
                        If you wish to receive notifications from YAWP about new upgrades, news and announcements, use the subscribe button.
                         </li>
                     </ul>
+                </section>
+                <section class="main-section" id="Next_On_YAWP">
+                    <header>
+                        <h3>Coming soon on YAWP</h3>
+                    </header>
+                    <li>
+                     Ability to make snippets for rendered output. 
+                    </li>
+                     <li>
+                      User authentication and ability to share snippets as GISTs
+                    </li>
+                    <li>
+                      Support for multiple output snippet formats including PDF and Markdown.
+                    </li>
+                    <li>
+                      Support for Live Markdown Previewer for live lessons while taking notes.
+                    </li>
+                    <pre>
+                    </pre>
                 </section>
                 <section class="main-section" id="More_on_YAWP">
                     <header>
