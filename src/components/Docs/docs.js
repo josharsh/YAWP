@@ -65,6 +65,9 @@ function Docs(){
                         <li>
                         To clear content, use the Eraser tool from the actions menu.
                         </li>
+                        <li>
+                        YAWL utilizes browser local storage to store your work. Next time you come to use YAWP, you can start where you left.
+                        </li>
                     </ul>
                     </p>
                 </section>
