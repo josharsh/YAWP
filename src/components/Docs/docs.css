@@ -1,0 +1,102 @@
+.grid-container {
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  overflow: hidden;
+}
+.body-docs{
+  overflow: hidden;
+}
+.content-docs {
+  overflow-y: scroll;
+  padding: 20px;
+  background-color: hsla(236, 17%, 17%, 0.05);
+  line-height: 30px;
+}
+
+main h1 {
+  font-size: 2rem;
+  margin: 20px 0;
+  padding: 1em;
+}
+
+#navbar header {
+  font-size: 1.6rem;
+  margin: 20px 0;
+}
+
+::-webkit-scrollbar {
+  width: 0;  /* Remove scrollbar space */
+  background: transparent;  /* Optional: just make scrollbar invisible */
+}
+#navbar {
+  overflow-y: scroll;
+  text-align: center;
+  border-right: 1px solid lightgrey;
+  color: rgb(45, 106, 121);
+  background-color: #f8f9fa!important;
+}
+
+#navbar li {
+  border-bottom: 1px solid lightgrey;
+  list-style: none;
+  margin-top: 1px;
+  padding: 10px;
+  font-size: 1rem;
+}
+
+#navbar li:hover {
+  cursor: pointer;
+  transform: scale(0.98);
+}
+
+#navbar a {
+  text-decoration: none;
+  color: #333;
+}
+
+.main-section h3 {
+  font-size: 1.5rem;
+  margin-bottom: 15px;
+}
+
+.main-section {
+  font-weight: 300;
+  font-size: 20px;
+  margin-top: 50px;
+  padding-left: 30px;
+}
+
+.main-section ul {
+  margin: 1em 0;
+  padding-left: 1em;
+}
+
+#Something_Missing {
+  margin-bottom: 30px;
+}
+
+pre code {
+  background-color: #eee;
+  border: 1px solid #999;
+  display: block;
+  padding: 20px;
+}
+
+@media only screen and (max-width: 815px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: 4fr;
+  }
+
+  .main-section {
+    padding: 0 15px;
+    overflow-x: hidden;
+  }
+
+  pre code {
+    padding: 10px;
+    font-size: 0.8rem;
+  }
+}

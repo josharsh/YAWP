@@ -12,7 +12,8 @@ function Content() {
                         <h1 style={{"font-family": 'Abel'}}>Web Playground</h1>
                         <br />
                         <h6 className="bold-four" style={{"font-family": 'Bree Serif'}}>
-                            Sheldon wants to teach web but zoom does not work well for him.
+                            Does Zoom does not work well for your remote web lesson needs? 
+                            Try a web playground that allows snippeting your lessons in real time.
                     </h6>
                         <br />
                         <h6><Link className="btn btn-dark start start-two" to="/play">Try now!</Link></h6>
