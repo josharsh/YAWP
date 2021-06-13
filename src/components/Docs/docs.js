@@ -45,7 +45,7 @@ function Docs(){
                         <h3>Getting Started</h3>
                     </header>
                     <p>
-                        Go to <a href="https://yawp.vercel.app/play ">https://yawp.vercel.app/play </a> and start by typing HTML, CSS and JS on the respective editors.
+                        Go to <a href="https://yawp.josharsh.tech/play ">https://yawp.josharsh.tech/play </a> and start by typing HTML, CSS and JS on the respective editors.
                     </p>
                 </section>
                 <section class="main-section" id="Using Play">

@@ -8,7 +8,7 @@ import {
     Route,
     Link
   } from "react-router-dom";
-const yawpURL="https://yawp.vercel.app/"
+const yawpURL="https://yawp.josharsh.tech/"
 const shareOnTwitter=`http://twitter.com/share?text=Just came across YAWP developed by @josharsh1. Click here and witness Yet Another Web Playground &url=${yawpURL}&hashtags=yawp,web,josharsh`
 const shareOnLinkedin=`https://www.linkedin.com/sharing/share-offsite/?url=${yawpURL}`
 function clearEditors(){
