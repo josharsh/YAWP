@@ -33,7 +33,7 @@ function Docs(){
                 </section>
                 <section class="main-section" id="Online_Playgrounds">
                     <header>
-                        <h3>What is a Playground</h3>
+                        <h3>What is a Playground </h3>
                     </header>
                     <code>
                     A web playground does not mind you playing around as you wish. From useful and liberating online code editors to amazing production grade environments, playgrounds on internet help you learn, teach, play, test and more.
