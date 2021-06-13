@@ -23,7 +23,7 @@ function Docs(){
             <main id="main-doc" class="content-docs">
                 <section class="main-section" id="Try_YAWP">
                     <header>
-                        <h3>Try YAWP </h3>
+                        <h3>Try YAWP</h3>
                     </header>
                     <p>
                         YAWP is not yet another web playground. At its heart it lets your write code and see results on the fly.
