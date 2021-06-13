@@ -11,7 +11,7 @@ function Nav() {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light static-top header-a">
             <div className="container nav-container">
-                <a className="navbar-brand brand" href="#">YAWP</a>
+                <a className="navbar-brand brand" href="/">YAWP</a>
 
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
@@ -23,7 +23,7 @@ function Nav() {
                             <a className="nav-link" href="https://josharsh.herokuapp.com">Developer</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#">Sponsor Projects like this</a>
+                        <Link className="nav-link" to="/docs">Docs</Link>
                         </li>
                         <Link className="btn btn-outline-dark start" to="/play">Get Started</Link>
                     </ul>

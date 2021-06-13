@@ -13,6 +13,11 @@
     padding-bottom: 20px;
 }
 
+.header-bottom -a {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
 .alink {
     /* background-color: red; */
     font-size: 14px;
