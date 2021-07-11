@@ -1,7 +1,7 @@
 # YAWP - Yet another Web playground
 YAWP Yet Another Web Playground is an online web Playground that lets you play with HTML CSS and JS in real time. If you want to teach web and Zoom does not really allow you to express a lot, YAWP is just for you. YAWP saves your work so that you can build over it next time you visit.
 
-<img src="https://yawp.josharsh.tech/images/cover.gif" height="500px" width="500px">
+<center><img src="https://yawp.josharsh.tech/images/cover.gif" height="500px" width="500px"></center>
 
 ## Install Dependencies
 ### `yarn`
