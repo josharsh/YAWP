@@ -16,9 +16,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+## How to Contribute
+This project has different deployment environments. Please take a feature PR to master which will be merged to staging and prod later upon review.
 
 ## Learn More
-
 Learn more about YAWP at https://yawp.josharsh.tech
 
 ## YAWP Docs
