@@ -1,0 +1,28 @@
+.dark-container{
+    background-color: rgb(20, 20, 20);
+}
+
+.heading-text{
+    font-family: Abel;
+}
+
+.subheading-text{
+    font-family: Bree Serif;
+}
+
+.light-text{
+    color: whitesmoke;
+}
+
+.toggleButton{
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+.darkButton{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
