@@ -4,7 +4,8 @@ YAWP Yet Another Web Playground is an online web Playground that lets you play w
 <center><img src="https://yawp.josharsh.tech/images/cover.gif" height="500px" width="500px"></center>
 
 ## Install Dependencies
-### `yarn`
+
+### [Yarn](https://yarnpkg.com/en/docs/install)
 
 ## Getting Started
 
