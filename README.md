@@ -8,7 +8,7 @@ YAWP Yet Another Web Playground is an online web Playground that lets you play w
 1. Install Node.js https://nodejs.org/en/download
 2. Go to this link for installation of Yarn: https://yarnpkg.com/getting-started/install
 
-## Linux
+### Linux
 1. Install Node.js https://nodejs.org/en/download/package-manager
 2. Go to this link for installation of Yarn: https://yarnpkg.com/getting-started/install
 
