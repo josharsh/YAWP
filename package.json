@@ -42,5 +42,8 @@
   },
   "devDependencies": {
     "eslint-plugin-react": "^7.24.0"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
