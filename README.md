@@ -4,7 +4,13 @@ YAWP Yet Another Web Playground is an online web Playground that lets you play w
 <center><img src="https://yawp.josharsh.tech/images/cover.gif" height="500px" width="500px"></center>
 
 ## Install Dependencies
-### `yarn`
+### Windows And macOS
+1. Install Node.js https://nodejs.org/en/download
+2. Go to this link for installation of Yarn: https://yarnpkg.com/getting-started/install
+
+### Linux
+1. Install Node.js https://nodejs.org/en/download/package-manager
+2. Go to this link for installation of Yarn: https://yarnpkg.com/getting-started/install
 
 ## Getting Started
 
